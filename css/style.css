@@ -489,6 +489,11 @@ body {
     .container {
         max-width: 940px;
     }
+
+
+    .header {
+        background-image: url(../images/Vector_Smart_Object-desctop.png);
+    }
 }
 
 
